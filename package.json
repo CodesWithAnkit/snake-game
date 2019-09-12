@@ -1,0 +1,9 @@
+{
+  "name": "snake-game",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://CodesWithAnkit.github.io/snake-game",
+  "dependencies": {
+    "gh-pages": "2.0.1"
+  }
+}

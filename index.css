@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(180, 236, 180);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#canvas {
+  background-color: rgb(240, 142, 142);
+}
+/* html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: ;
+  text-align: center;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
